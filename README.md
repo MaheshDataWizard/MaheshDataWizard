@@ -1,7 +1,3 @@
-Here is an updated README file that includes links to all your repositories:
-
----
-
 # Mahesh Khatik
 
 Aspiring Full Stack Developer with hands-on experience in building dynamic web applications using a range of technologies including Core Java, Advanced Java, HTML, CSS, JavaScript, and ReactJS. Skilled in creating interactive user interfaces and implementing backend functionalities using Java Servlets, JDBC, and REST APIs.
@@ -81,7 +77,6 @@ I am passionate about full stack development and have practical experience in de
 - **GitHub:** [github.com/MaheshDataWizard](https://github.com/MaheshDataWizard)
 - **LinkedIn:** [linkedin.com/in/mahesh-khatik-b37922204](https://linkedin.com/in/mahesh-khatik-b37922204)
 - **Email:** [maheshkatikcareers@gmail.com](mailto:maheshkatikcareers@gmail.com)
-- **Phone:** [+91 738 715 2880](tel:+917387152880)
 
 ## 🔍 Objective
 
